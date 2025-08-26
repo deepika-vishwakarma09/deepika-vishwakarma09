@@ -1,5 +1,4 @@
-# 👩‍💻 Deepika Vishwakarma  
-
+ 
 🎓 AI & ML Master's Student @ IIIT Lucknow (2024–2026)  
 💡 Passionate about Artificial Intelligence, Machine Learning, Deep Learning & Generative AI  
 🚀 Always eager to solve real-world problems with AI and Data  
